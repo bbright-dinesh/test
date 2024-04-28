@@ -4,8 +4,8 @@
     "pub_date": "2024-04-28T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR3V5c0VncDFUTEsrZGEwaThFS1BBWXNFSFdLTHFkcVpNeHo0cDlwOUVPMTdMV2RIczNOQ2ExeUtzTzJmRkVTRTRQcTJrd3QxYWRFYjNjZGYrNzRWTmt6cU8vNXNwU2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MjY5NjAyCWZpbGU6YWRtaW4tcG9ydGFsXzAuMS4wX3g2NC1zZXR1cC5uc2lzLnppcAo5R2J0aUk2RUptSXY1SG1hU2VWa2RicDlxbWhqOXFqMnI2QSt0UWY2dGRCWjdKdzMySG55VDZpS3haVG5xZFN6enlRWmZneVVEdVZNWVlsRUZaczdDZz09Cg==",
-            "url": "https://firebasestorage.googleapis.com/v0/b/fir-discount-123.appspot.com/o/updater%2Fadmin-portal_0.1.2_x64-setup.nsis.zip?alt=media&token=2ec90b14-b20e-4afc-b479-568b1f828415"
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR3V5c0VncDFUTE5RWHZTdmQ2aHV3WW83UHBQeVJTeXdqWndNUGFWUzRYTGw4MkNjVWROV09RMExOL0RjMUhMb2V5aUFrQSt3WGM0aTUza0oydENYeTJvMWt1UkdBelFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0Mjc3OTEzCWZpbGU6YWRtaW4tcG9ydGFsXzAuMS4yX3g2NC1zZXR1cC5uc2lzLnppcAo2R2R0NkpOc1NUeU92d1BDOTBvOG1LdERKS1IzdFhVSmk5OEVKU3lhTEpCVzhQcFpHVDBBMGxqZnI0RERnUy9mN2h0bklGcUExVTJtT3kvTnlLT1hCUT09Cg==",
+            "url": "https://github.com/bbright-dinesh/test/releases/download/abcd/admin-portal_0.1.2_x64-setup.nsis.zip"
         }
     }
 }
