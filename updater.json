@@ -1,11 +1,11 @@
 {
-    "version": "v0.1.1",
+    "version": "v0.1.2",
     "notes": "Test version",
     "pub_date": "2024-04-28T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
             "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR3V5c0VncDFUTEsrZGEwaThFS1BBWXNFSFdLTHFkcVpNeHo0cDlwOUVPMTdMV2RIczNOQ2ExeUtzTzJmRkVTRTRQcTJrd3QxYWRFYjNjZGYrNzRWTmt6cU8vNXNwU2dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MjY5NjAyCWZpbGU6YWRtaW4tcG9ydGFsXzAuMS4wX3g2NC1zZXR1cC5uc2lzLnppcAo5R2J0aUk2RUptSXY1SG1hU2VWa2RicDlxbWhqOXFqMnI2QSt0UWY2dGRCWjdKdzMySG55VDZpS3haVG5xZFN6enlRWmZneVVEdVZNWVlsRUZaczdDZz09Cg==",
-            "url": "https://firebasestorage.googleapis.com/v0/b/fir-discount-123.appspot.com/o/updater%2Fadmin-portal_0.1.0_x64-setup.nsis.zip?alt=media&token=6462dbcd-f381-4886-a318-519347fa861f"
+            "url": "https://firebasestorage.googleapis.com/v0/b/fir-discount-123.appspot.com/o/updater%2Fadmin-portal_0.1.2_x64-setup.nsis.zip?alt=media&token=2ec90b14-b20e-4afc-b479-568b1f828415"
         }
     }
 }
