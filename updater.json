@@ -4,7 +4,7 @@
     "pub_date": "2024-04-28T00:00:00Z",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR3V5c0VncDFUTE5RWHZTdmQ2aHV3WW83UHBQeVJTeXdqWndNUGFWUzRYTGw4MkNjVWROV09RMExOL0RjMUhMb2V5aUFrQSt3WGM0aTUza0oydENYeTJvMWt1UkdBelFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0Mjc3OTEzCWZpbGU6YWRtaW4tcG9ydGFsXzAuMS4yX3g2NC1zZXR1cC5uc2lzLnppcAo2R2R0NkpOc1NUeU92d1BDOTBvOG1LdERKS1IzdFhVSmk5OEVKU3lhTEpCVzhQcFpHVDBBMGxqZnI0RERnUy9mN2h0bklGcUExVTJtT3kvTnlLT1hCUT09Cg==",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSR3V5c0VncDFUTERINFBCQVBwSlRkZU9MNEdrNTVvbEVPWmp3VjErdUk4OGtmSUJwUkh2OEwvVlB5elJ1T3M0dkxRN3J0MkN4bGltVXJmSjg1K2dlMnlaYjl3K0daWlFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MjgyMjgxCWZpbGU6YWRtaW4tcG9ydGFsXzAuMS4zX3g2NC1zZXR1cC5uc2lzLnppcApLNVNmbmRETFdRQ1ZXS2JJaTZOUWV5NzJEdlZCVmIydEZlbWZ2RzBTWFZWdm9SVzE0V2p1eEo4VU1hdVlTUFZVbjg2NDJOM09QTzlXOVQ4aUdNcDRDQT09Cg==",
             "url": "https://github.com/bbright-dinesh/test/releases/download/xyz/admin-portal_0.1.3_x64-setup.nsis.zip"
         }
     }
